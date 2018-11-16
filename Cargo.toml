@@ -1,0 +1,8 @@
+[package]
+name = "rust-sdl2-gol"
+version = "0.1.0"
+authors = ["meyhem"]
+
+[dependencies]
+sdl2 = "0.32.0-beta.2"
+rand = "0.5"
